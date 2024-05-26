@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/caddyserver/caddy/v2 v2.7.3
-	github.com/libdns/route53 v1.3.2
+	github.com/libdns/route53 v1.3.0
 )
 
 require (
