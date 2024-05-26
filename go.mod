@@ -1,10 +1,10 @@
-module github.com/caddy-dns/route53
+module github.com/threegerbils/route53
 
 go 1.19
 
 require (
 	github.com/caddyserver/caddy/v2 v2.7.3
-	github.com/libdns/route53 v1.3.3
+	github.com/libdns/route53 v1.3.2
 )
 
 require (
